@@ -1,0 +1,8 @@
+Durante el curso aprendí que la tecnología puede facilitar la participación ciudadana al hacer más accesible el registro de apoyos y causas.
+Un sistema bien diseñado permite que una comunidad organice sus demandas de forma clara y transparente.
+La integración de backend, bases de datos y generación de documentos ayuda a formalizar las peticiones.
+También comprendí la importancia de automatizar notificaciones para mantener informada a la comunidad.
+El uso responsable de datos personales es clave para proteger a los ciudadanos.
+Las herramientas como n8n o Telegram pueden mejorar la coordinación sin exponer información sensible.
+Con soluciones simples se puede empoderar a más personas para actuar en conjunto.
+La tecnología debe apoyar la organización comunitaria sin complicar el acceso ni la seguridad.

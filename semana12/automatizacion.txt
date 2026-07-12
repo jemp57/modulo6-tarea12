@@ -1,0 +1,16 @@
+Evento:
+Se activa cuando una nueva causa es registrada en la plataforma.
+
+Proceso:
+El sistema detecta automáticamente la creación de la causa y envía una notificación a un canal de Telegram configurado previamente mediante n8n.
+
+Mensaje:
+“Nueva causa creada en la plataforma: [título de la causa]. Ingresa para conocer más y apoyar.”
+
+También se puede incluir el número actual de apoyos o un enlace directo a la causa.
+
+Información que no debe enviarse por seguridad:
+No se deben compartir datos personales sensibles como números de cédula, teléfonos, correos electrónicos, direcciones, comentarios privados ni ningún tipo de información que pueda vulnerar la privacidad de los ciudadanos.
+
+Objetivo:
+Mantener informada a la comunidad sobre nuevas causas y fomentar la participación ciudadana de forma rápida y segura.
